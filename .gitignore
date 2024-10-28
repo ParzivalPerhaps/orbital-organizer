@@ -21,3 +21,7 @@
 /frontend/npm-debug.log*
 /frontend/yarn-debug.log*
 /frontend/yarn-error.log*
+
+/backend/build
+/backend/node_modules
+/backend/.env
